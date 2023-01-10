@@ -16,3 +16,4 @@ observe(obj);
 // console.log(obj);
 
 obj.c.push(11);
+console.log(obj.c);
